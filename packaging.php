@@ -84,7 +84,6 @@ echo '<br/>';
 /*
  * 输出：
 array(2) { [0]=> string(10) "AHS-WEIGHT" [1]=> string(8) "AHS-SIZE" }
-array(2) { [0]=> string(10) "AHS-WEIGHT" [1]=> string(8) "AHS-SIZE" }
 array(1) { [0]=> string(10) "AHS-WEIGHT" }
 array(1) { [0]=> string(8) "AHS-SIZE" }
 array(1) { [0]=> string(8) "OVERSIZE" }
